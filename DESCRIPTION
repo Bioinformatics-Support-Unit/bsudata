@@ -3,8 +3,7 @@ Type: Package
 Title: Presents Data for BSU Courses
 Version: 0.1.0
 Authors@R: c(person("Simon", "Cockell", email = "simon.cockell@newcastle.ac.uk",
-  role = c("aut", "cre")),
-  person("John", "Casement", email="john.casement@newcastle.ac.uk", role = c("aut", "ctb"))
+  role = c("aut", "cre")), person("John", "Casement", email="john.casement@newcastle.ac.uk", role = c("aut", "ctb")))
 Maintainer: Simon Cockell <simon.cockell@newcastle.ac.uk>
 Description: This package presents data tables used in Newcastle University
     Bioinformatics Support Unit courses.
