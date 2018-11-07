@@ -3,6 +3,7 @@
 #' A dataset containing the raw counts for 58243
 #' genes in 24 samples.
 #'
+#' @docType data
 #' @format A matrix with 58243 rows and 23 columns
 #'
 "counts"
@@ -10,7 +11,7 @@
 #'
 #' A dataset containing the raw counts, lengths and
 #' scaled counts for 58243 genes in 23 samples.
-#'
+#' @docType data
 #' @format A list of 4 objects, results of tximport
 #'
 "quant_table"
