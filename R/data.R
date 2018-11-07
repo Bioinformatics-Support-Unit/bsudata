@@ -91,4 +91,18 @@
 #' @docType data
 #' @format A tibble with 36014 rows and 15 columns
 "T96_vs_B_all"
+#' Matrix of fold changes across all comparisons for 20 most changed genes 
+#'
+#' Matrix containing fold changes for 20 genes
+#'
+#' @docType data
+#' @format A matrix with 20 rows and 4 columns
+"fc_matrix"
+#' Matrix of expression values for 20 most changed genes in all samples 
+#'
+#' Matrix containing expression values 20 genes
+#'
+#' @docType data
+#' @format A matrix with 20 rows and 22 columns
+"top20_matrix"
 
