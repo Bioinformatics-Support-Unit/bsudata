@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.11.2",
+    "index": "/data/rna-seq-course/salmon.idx",
+    "libType": "A",
+    "mates1": "/data/rna-seq-course/fastq/Sample13_R1_001.fastq.gz",
+    "mates2": "/data/rna-seq-course/fastq/Sample13_R2_001.fastq.gz",
+    "output": "/home/njwc4/rna-seq/counts/Sample13",
+    "threads": "10",
+    "auxDir": "aux_info"
+}

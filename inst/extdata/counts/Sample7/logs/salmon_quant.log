@@ -1,0 +1,50 @@
+[2018-10-04 17:15:19.218] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2018-10-04 17:15:19.218] [jointLog] [info] parsing read library format
+[2018-10-04 17:15:19.218] [jointLog] [info] There is 1 library.
+[2018-10-04 17:15:19.276] [jointLog] [info] Loading Quasi index
+[2018-10-04 17:15:19.277] [jointLog] [info] Loading 32-bit quasi index
+[2018-10-04 17:15:25.525] [jointLog] [info] done
+[2018-10-04 17:15:25.525] [jointLog] [info] Index contained 199612 targets
+[2018-10-04 17:15:26.106] [jointLog] [info] Automatically detected most likely library type as ISR
+[2018-10-04 17:17:11.147] [jointLog] [info] Thread saw mini-batch with a maximum of 1.70% zero probability fragments
+[2018-10-04 17:17:11.147] [jointLog] [info] Thread saw mini-batch with a maximum of 1.56% zero probability fragments
+[2018-10-04 17:17:11.154] [jointLog] [info] Thread saw mini-batch with a maximum of 1.56% zero probability fragments
+[2018-10-04 17:17:11.162] [jointLog] [info] Thread saw mini-batch with a maximum of 1.52% zero probability fragments
+[2018-10-04 17:17:11.174] [jointLog] [info] Thread saw mini-batch with a maximum of 1.74% zero probability fragments
+[2018-10-04 17:17:11.183] [jointLog] [info] Thread saw mini-batch with a maximum of 1.50% zero probability fragments
+[2018-10-04 17:17:11.190] [jointLog] [info] Thread saw mini-batch with a maximum of 1.50% zero probability fragments
+[2018-10-04 17:17:11.205] [jointLog] [info] Thread saw mini-batch with a maximum of 1.72% zero probability fragments
+[2018-10-04 17:17:11.219] [jointLog] [info] Thread saw mini-batch with a maximum of 1.44% zero probability fragments
+[2018-10-04 17:17:11.237] [jointLog] [info] Thread saw mini-batch with a maximum of 1.56% zero probability fragments
+[2018-10-04 17:17:11.578] [fileLog] [info] 
+At end of round 0
+==================
+Observed 33301892 total fragments (33301892 in most recent round)
+
+[2018-10-04 17:17:11.577] [jointLog] [info] Computed 305384 rich equivalence classes for further processing
+[2018-10-04 17:17:11.577] [jointLog] [info] Counted 29599930 total reads in the equivalence classes 
+[2018-10-04 17:17:11.583] [jointLog] [info] Mapping rate = 88.8836%
+
+[2018-10-04 17:17:11.583] [jointLog] [info] finished quantifyLibrary()
+[2018-10-04 17:17:11.583] [jointLog] [info] Starting optimizer
+[2018-10-04 17:17:14.693] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2018-10-04 17:17:14.711] [jointLog] [info] iteration = 0 | max rel diff. = 4683.71
+[2018-10-04 17:17:15.731] [jointLog] [info] iteration = 100 | max rel diff. = 14.783
+[2018-10-04 17:17:16.738] [jointLog] [info] iteration = 200 | max rel diff. = 1.99691
+[2018-10-04 17:17:17.739] [jointLog] [info] iteration = 300 | max rel diff. = 1.76334
+[2018-10-04 17:17:18.742] [jointLog] [info] iteration = 400 | max rel diff. = 1.20295
+[2018-10-04 17:17:19.738] [jointLog] [info] iteration = 500 | max rel diff. = 0.625225
+[2018-10-04 17:17:20.729] [jointLog] [info] iteration = 600 | max rel diff. = 0.131128
+[2018-10-04 17:17:21.718] [jointLog] [info] iteration = 700 | max rel diff. = 2.38865
+[2018-10-04 17:17:22.707] [jointLog] [info] iteration = 800 | max rel diff. = 0.080763
+[2018-10-04 17:17:23.695] [jointLog] [info] iteration = 900 | max rel diff. = 0.0374122
+[2018-10-04 17:17:24.684] [jointLog] [info] iteration = 1000 | max rel diff. = 0.173815
+[2018-10-04 17:17:25.673] [jointLog] [info] iteration = 1100 | max rel diff. = 0.320677
+[2018-10-04 17:17:26.682] [jointLog] [info] iteration = 1200 | max rel diff. = 0.128397
+[2018-10-04 17:17:27.674] [jointLog] [info] iteration = 1300 | max rel diff. = 0.01605
+[2018-10-04 17:17:28.665] [jointLog] [info] iteration = 1400 | max rel diff. = 0.0183452
+[2018-10-04 17:17:29.653] [jointLog] [info] iteration = 1500 | max rel diff. = 0.0970999
+[2018-10-04 17:17:30.190] [jointLog] [info] iteration = 1554 | max rel diff. = 0.00726085
+[2018-10-04 17:17:30.195] [jointLog] [info] Finished optimizer
+[2018-10-04 17:17:30.195] [jointLog] [info] writing output 
+

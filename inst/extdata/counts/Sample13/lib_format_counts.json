@@ -1,0 +1,21 @@
+{
+    "read_files": "( /data/rna-seq-course/fastq/Sample13_R1_001.fastq.gz, /data/rna-seq-course/fastq/Sample13_R2_001.fastq.gz )",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 36555183,
+    "num_assigned_fragments": 36555183,
+    "num_frags_with_consistent_mappings": 34505361,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2050029,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 292,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 34505361,
+    "SF": 255185,
+    "SR": 1794552,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
