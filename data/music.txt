@@ -1,0 +1,425 @@
+artist	track	year	decade	duration	tempo	energy	danceability	key	genre
+Eminem	Lose Yourself	2002	2000s	265.74322	85.7	0.478829	0.776651	D	Hip Hop
+Leona Lewis	Bleeding Love	2008	2000s	239.50667	104	0.739428	0.669959	F	Electronic,Pop
+Lady GaGa	Poker Face	2009	2000s	237.35438	119.003	0.805974	0.853247	Ab	Electronic,Pop
+OutKast	Hey Ya!	2003	2000s	134.73914	158.872	0.974257	0.645912	C	Hip Hop
+Usher	Yeah!	2004	2000s	174.48	105.015	0.570809	0.845517	F	Hip Hop
+Eminem	Without Me	2002	2000s	299.32757	112.259	0.453362	0.90288	G	Hip Hop
+50 Cent	In Da Club	2003	2000s	224.07256	90.015	0.457473	0.913415	C#	Hip Hop
+Katy Perry	I Kissed A Girl	2008	2000s	181.35946	130.001	0.755734	0.681833	A	Electronic,Rock,Pop
+The Black Eyed Peas	I Gotta Feeling	2009	2000s	279.10667	129.773	0.65544500000000006	0.752687	C	Electronic
+Sean Kingston	Beautiful Girls	2007	2000s	257.42404	130.015	0.398486	0.78707	C#	Hip Hop,Reggae,Funk / Soul
+Justin Timberlake	Sexyback	2006	2000s	265.84803	116.891	0.512472	0.968045	F	Electronic,Pop
+Beyonce	Crazy in Love	2003	2000s	251.68	99.241	0.839425	0.716999	D	Hip Hop
+Kylie Minogue	Can't Get You Out of My Head	2001	2000s	229.67955	126.021	0.610645	0.744249	A	Electronic
+Nickelback	How You Remind Me	2002	2000s	224.82667	171.631	0.698555	0.462505	Bb	Rock
+Madonna	Hung Up	2005	2000s	337.76281	125.017	0.640065	0.64925600000000006	A	Electronic,Pop
+Madonna	Music	2000	2000s	224.24	119.847	0.832594	0.733638	G	Electronic,Pop
+Avril Lavigne	Girlfriend	2007	2000s	216.68	163.983	0.962802	0.553131	G	Rock,Pop
+The Pussycat Dolls	Don't Cha	2005	2000s	282.84757	120	0.274572	0.87137	C#	Hip Hop,Pop
+Lady GaGa	Bad Romance	2009	2000s	233.78621	127.982	0.86246	0.650942	A	Electronic,Hip Hop,Pop
+t.A.T.u.	All the Things She Said	2003	2000s	213.33333	89.973	0.806756	0.602084	F	Electronic
+U2	Beautiful Day	2000	2000s	305.15959	136.085	0.893886	0.451347	D	Rock
+Gnarls Barkley	Crazy	2006	2000s	180.33333	111.989	0.610644	0.846379	Ab	Hip Hop,Funk / Soul
+James Blunt	You're Beautiful	2005	2000s	230.86975	79.229	0.568842	0.478369	Eb	Rock
+Avril Lavigne	Complicated	2002	2000s	252.19156	77.981	0.67196	0.547853	F	Rock,Pop
+Beyonce	Irreplaceable	2006	2000s	252.16757	175.598	0.584008	0.429176	Bb	Funk / Soul,Pop
+Las Ketchup	The Ketchup Song (Asereje)	2002	2000s	209.07202	184.041	0.776991	0.645386	Bb	Electronic
+Christina Aguilera	Beautiful	2003	2000s	236.51955	132.053	0.845975	0.551281	F	Pop
+Alicia Keys	No One	2007	2000s	238.56	94.845	0.816713	0.470296	A	Hip Hop
+Evanescence	Bring Me to Life	2003	2000s	252.86404	95.083	0.918432	0.292108	E	Rock
+Britney Spears	Toxic	2004	2000s	218.74621	135.011	0.937288	0.564215	C#	Pop
+Daniel Powter	Bad Day	2005	2000s	234.36	139.995	0.783249	0.5728	Eb	Pop
+The Black Eyed Peas	Boom Boom Pow	2009	2000s	204.87959	130.062	0.937648	0.897314	A	Pop
+Alicia Keys	Fallin'	2001	2000s	284.36	178.348	0.601725	0.303706	E	Hip Hop,Funk / Soul
+Mariah Carey	We Belong Together	2005	2000s	262.89333	127.966	0.870555	0.691493	A	Electronic,Hip Hop
+Green Day	Boulevard of Broken Dreams	2005	2000s	261.72	166.877	0.631084	0.48521	Ab	Rock
+Kanye West	Stronger	2007	2000s	246.10667	108.495	0.591883	0.411862	C#	Hip Hop
+Akon	Lonely	2005	2000s	213.22621	90.101	0.546067	0.62316	F	Funk / Soul
+Nelly Furtado	Say It Right	2007	2000s	236.52	117.019	0.688138	0.800811	F	Hip Hop,Pop
+The Black Eyed Peas	Shut Up	2003	2000s	269.08757	112.977	0.312793	0.762451	D	Hip Hop
+Vanessa Carlton	A Thousand Miles	2002	2000s	236.96	94.906	0.782403	0.568449	B	Rock
+Eminem	Stan	2000	2000s	380.48	80.053	0.833662	0.688883	F	Hip Hop
+Coldplay	Viva La Vida	2008	2000s	114.6771	137.985	0.743098	0.480452	F	Electronic
+Plain White T's	Hey There Delilah	2007	2000s	232.77333	103.974	0.37329	0.655194	D	Rock
+Gwen Stefani	Hollaback Girl	2005	2000s	48.3522	110.022	0.733197	0.959466	Bb	Electronic,Hip Hop,Pop
+The Black Eyed Peas	Don't Phunk With My Heart	2005	2000s	241.37333	130.881	0.87523	0.68405	F	Electronic,Hip Hop
+R Kelly	Ignition	2003	2000s	172.9824	134.561	0.554831	0.757318	C#	Hip Hop,Funk / Soul
+OutKast	Ms Jackson	2001	2000s	239.58667	94.933	0.7744	0.831453	D	Hip Hop,Pop
+Shaggy	Angel	2001	2000s	235.13333	170.539	0.76654	0.742771	F#	Hip Hop,Reggae
+Santana	Maria Maria	2000	2000s	237.89288	97.892	0.743672	0.748737	E	Rock,Latin
+Enrique Iglesias	Hero	2001	2000s	246.54621	152.017	0.512721	0.56574	G	Electronic,Pop
+Amy Winehouse	Rehab	2007	2000s	207.03955	75.733	0.469737	0.551322	C	Electronic,Funk / Soul
+Destiny's Child	Lose My Breath	2004	2000s	243.06603	118.911	0.802637	0.808811	Ab	Electronic,Hip Hop
+Rihanna	Take a Bow	2008	2000s	242.26667	130.031	0.935755	0.565663	A	Hip Hop,Pop
+Rihanna	Disturbia	2008	2000s	227.16036	128.789	0.488715	0.687489	B	Hip Hop,Funk / Soul,Pop
+Duffy	Mercy	2008	2000s	209.08757	129.926	0.548886	0.787611	G	Funk / Soul
+Akon	Smack That	2006	2000s	217.38522	120.007	0.777866	0.903377	F	Hip Hop
+Mario	Let Me Love You	2005	2000s	113.31873	94.249	0.509161	0.665465	G	Electronic
+Dido	White Flag	2003	2000s	248.50667	137.987	0.660772	0.637419	G	Pop
+The Fray	How to Save a Life	2007	2000s	261.16	122.028	0.721475	0.639448	Bb	Rock
+Beyonce	If I Were a Boy	2008	2000s	211.89288	127.003	0.820018	0.700548	Bb	Funk / Soul
+Jennifer Lopez	Love Don't Cost a Thing	2001	2000s	167.74667	97.196	0.793614	0.705129	E	Pop
+Eminem	The Real Slim Shady	2000	2000s	273.21424	104.448	0.368166	0.907038	Ab	Hip Hop
+Eminem	Just Lose It	2004	2000s	200.25333	121.082	0.272839	0.960278	D	Hip Hop
+Whitney Houston	I Will Always Love You	1992	1990s	357.4712	131.862	0.254411	0.306578	Ab	Funk / Soul,Pop
+Sinead O'Connor	Nothing Compares 2 U	1990	1990s	240.28	119.898	0.507575	0.541595	F	Electronic,Rock
+Celine Dion	My Heart Will Go On	1998	1990s	441.96	98.961	0.338433	0.175607	Eb	Electronic,Pop,Stage & Screen
+Coolio	Gangsta's Paradise	1995	1990s	221.90667	80.019	0.731169	0.527033	Ab	Hip Hop
+Cher	Believe	1998	1990s	100.99955	133.007	0.977037	0.663977	Eb	Funk / Soul,Pop
+Madonna	Vogue	1990	1990s	258.63791	116.274	0.558834	0.722713	E	Electronic,Pop
+Ace of Base	The Sign	1994	1990s	189.78667	97.01	0.828127	0.802241	E	Electronic
+Ricky Martin	Livin' La Vida Loca	1999	1990s	222.46621	126.992	0.879933	0.610633	Ab	Latin,Pop
+No Doubt	Don't Speak	1997	1990s	364.07274	142.606	0.640839	0.279003	F	Electronic,Rock
+Bruce Springsteen	Streets of Philadelphia	1994	1990s	224.02567	93.685	0.186005	0.730714	F	Rock
+All-4-One	I Swear	1994	1990s	302.4	82.014	0.434215	0.485903	A	Hip Hop,Funk / Soul,Pop
+Spice Girls	Wannabe	1996	1990s	172.4	110.031	0.827307	0.757484	B	Electronic,Pop
+Michael Jackson	Black Or White	1991	1990s	230.81751	116.993	0.874874	0.688235	F#	Pop
+Brandy & Monica	The Boy is Mine	1998	1990s	239.96	93.028	0.64281	0.706897	C#	Hip Hop
+Snow	Informer	1993	1990s	325.70667	140.077	0.972406	0.644622	F#	Hip Hop
+TLC	No Scrubs	1999	1990s	233.42667	92.907	0.621487	0.798418	Ab	Hip Hop,Funk / Soul
+Boyz II Men	I'll Make Love to You	1994	1990s	258.97556	71.307	0.371317	0.326005	E	Funk / Soul
+TLC	Waterfalls	1995	1990s	269.29333	85.659	0.697821	0.777705	Eb	Hip Hop
+Ace of Base	All That She Wants	1993	1990s	306.58667	130.038	0.868271	0.588255	F#	Electronic,Reggae,Pop
+Nirvana	Smells Like Teen Spirit	1992	1990s	287.06667	126.265	0.951155	0.401482	C#	Rock
+Meat Loaf	I'd Do Anything For Love (But I Won't Do That)	1993	1990s	382.37333	105.896	0.570257	0.384407	C	Rock
+Mariah Carey	Fantasy	1995	1990s	234.11955	204.326	0.914012	0.419406	B	Hip Hop,Pop
+Seal	Kiss From a Rose	1995	1990s	218.4	131.665	0.546793	0.576892	Bb	Electronic
+Bryan Adams	Have You Ever Really Loved a Woman?	1995	1990s	291.66667	145.67	0.476972	0.571185	G	Rock,Pop
+Eric Clapton	Tears in Heaven	1992	1990s	289.18621	177.37	0.218619	0.488876	A	Rock
+R Kelly	I Believe I Can Fly	1997	1990s	320.18667	120.473	0.459908	0.469667	G	Funk / Soul,Pop
+Mariah Carey	Without You	1994	1990s	254.32803	121.515	0.485132	0.44998	F#	Funk / Soul,Pop
+Londonbeat	I've Been Thinking About You	1990	1990s	305.58667	113.56	0.878553	0.637618	B	Pop
+MC Hammer	U Can't Touch This	1990	1990s	253.44308	133.16	0.906906	0.786979	B	Electronic,Hip Hop,Rock,Funk / Soul,Pop,Children's,Stage & Screen
+Celine Dion	Because You Loved Me	1996	1990s	132.07202	118.021	0.148953	0.565919	G	Electronic,Rock,Pop
+Vanilla Ice	Ice Ice Baby	1990	1990s	94.96961	115.632	0.495337	0.860772	G	Hip Hop
+Aqua	Barbie Girl	1997	1990s	57.67791	86.743	0.925285	0.687963	F#	Electronic
+Sheryl Crow	All I Wanna Do	1994	1990s	234.27138	121.517	0.725811	0.680736	E	Rock,Pop
+Take That	Back For Good	1995	1990s	203.44118	79.006	0.496851	0.606922	F	Electronic,Pop
+Janet Jackson	That's the Way Love Goes	1993	1990s	183.33664	98.379	0.698391	0.724536	Bb	Hip Hop
+Roxette	It Must Have Been Love	1990	1990s	440.10667	79.551	0.675766	0.347005	F	Rock,Pop
+Michael Jackson	You Are Not Alone	1995	1990s	295.98667	119.416	0.432089	0.639336	B	Electronic,Funk / Soul
+Eiffel 65	Blue (Da Ba Dee)	1999	1990s	116.22667	128.05	0.983432	0.750901	F	Electronic
+Bon Jovi	Blaze of Glory	1990	1990s	339.09333	78.586	0.699803	0.546517	G	Rock
+Bon Jovi	Always	1994	1990s	353.10667	141.42	0.678254	0.373308	E	Rock
+Shaggy	Boombastic	1995	1990s	247.17333	158.412	0.788379	0.866098	D	Electronic,Hip Hop,Reggae,Pop
+Wet Wet Wet	Love is All Around	1994	1990s	209.63955	84.903	0.732541	0.521703	Bb	Rock
+Christina Aguilera	Genie in a Bottle	1999	1990s	179.49025	183.817	0.684582	0.394002	F	Electronic
+Madonna	Take a Bow	1995	1990s	321.36	79.98	0.366489	0.567693	Ab	Electronic,Pop
+Chumbawamba	Tubthumping	1997	1990s	221.40757	103.811	0.736839	0.596072	D	Rock
+Bryan Adams	Please Forgive Me	1993	1990s	355.64	67	0.45775	0.529258	A	Rock
+Mr Big	To Be With You	1992	1990s	206.97333	83.644	0.391225	0.69476	E	Rock
+Savage Garden	Truly Madly Deeply	1998	1990s	277.26667	168.12	0.698391	0.555463	C	Electronic
+Toni Braxton	Un-Break My Heart	1996	1990s	219.50621	109.888	0.410775	0.637879	B	Electronic,Hip Hop,Pop
+Culture Beat	Mr Vain	1993	1990s	338.33333	132.865	0.996188	0.673206	A	Electronic
+Roxette	Joyride	1991	1990s	286.33066	101.942	0.808295	0.48617	D	Rock,Pop
+Will Smith	Men in Black	1997	1990s	225.8	107.547	0.496228	0.795546	F	Hip Hop
+Kris Kross	Jump	1992	1990s	204.54621	102.2	0.841352	0.757533	G	Hip Hop
+Madonna	Frozen	1998	1990s	332.13333	117.994	0.708167	0.405253	F	Electronic,Pop
+Rednex	Cotton Eye Joe	1994	1990s	194.13556	131.997	0.910685	0.735252	A	Electronic,Pop,Folk, World, & Country
+Jennifer Lopez	If You Had My Love	1999	1990s	255.01333	94.015	0.627683	0.683487	B	Hip Hop,Pop
+Haddaway	What is Love?	1993	1990s	189.93333	123.89	0.689861	0.706047	G	Electronic
+Right Said Fred	I'm Too Sexy	1991	1990s	89.97732	122.112	0.818707	0.65477	A	Electronic,Pop
+Sixpence None The Richer	Kiss Me	1999	1990s	176.8224	99.935	0.388711	0.539031	Eb	Rock
+Ini Kamoze	Here Comes the Hotstepper	1995	1990s	249.82667	100.359	0.571007	0.883807	G	Hip Hop
+Red Hot Chili Peppers	Under the Bridge	1992	1990s	272.43057	82.695	0.228668	0.374838	E	Rock
+Extreme	More Than Words	1991	1990s	210.97333	91.218	0.255939	0.636853	F#	Rock,Pop
+Mariah Carey	Vision of Love	1990	1990s	209.49333	205.02	0.622184	0.260263	F	Pop
+Natalie Imbruglia	Torn	1998	1990s	227.30667	96.306	0.827352	0.56691	F	Rock
+Alanis Morissette	Ironic	1996	1990s	225.93333	85.482	0.593299	0.295423	B	Pop
+Oasis	Wonderwall	1996	1990s	258.71673	174.727	0.845429	0.401859	D	Rock
+Elton John	Can You Feel the Love Tonight	1994	1990s	238.98667	125.898	0.274494	0.31207	Bb	Rock,Pop,Stage & Screen
+Mariah Carey	Dreamlover	1993	1990s	233.6	100.676	0.743042	0.69312	F	Electronic,Pop
+Crash Test Dummies	Mmm Mmm Mmm Mmm	1994	1990s	233.65333	92.949	0.646828	0.567176	Eb	Rock
+Billy Joel	The River of Dreams	1993	1990s	249.86358	89.729	0.676309	0.619846	G	Rock,Pop
+Janet Jackson	Together Again	1998	1990s	266.46354	122.957	0.563668	0.850136	C	Electronic,Hip Hop,Funk / Soul,Pop
+Enigma	Return to Innocence	1994	1990s	294.33556	87.844	0.390293	0.209496	Bb	Electronic
+C&C Music Factory	Gonna Make You Sweat (Everybody Dance Now)	1991	1990s	246.46531	113.216	0.820348	0.848041	F#	Electronic
+Irene Cara	Flashdance... What a Feeling	1983	1980s	244.26617	121.845	0.745837	0.35483	Bb	Electronic,Pop,Stage & Screen
+The Police	Every Breath You Take	1983	1980s	266.60526	117.336	0.540598	0.820528	C#	Rock,Pop
+Kim Carnes	Bette Davis Eyes	1981	1980s	156.37333	116.601	0.566918	0.632752	F	Electronic,Pop
+Michael Jackson	Billie Jean	1983	1980s	294.23955	116.74	0.417153	0.920595	F#	Electronic
+Survivor	Eye of the Tiger	1982	1980s	227.54667	108.744	0.728452	0.791527	C	Rock
+George Michael	Careless Whisper	1984	1980s	301.67955	76.425	0.436531	0.547421	D	Electronic
+Madonna	Like a Prayer	1989	1980s	340.86667	111.926	0.628584	0.659557	F	Electronic,Pop
+Stevie Wonder	I Just Called to Say I Love You	1984	1980s	261.10667	113.538	0.531126	0.739303	C#	Electronic,Funk / Soul,Stage & Screen
+Prince	When Doves Cry	1984	1980s	284.93161	128.84	0.426262	0.445826	A	Funk / Soul,Pop
+Phil Collins	Another Day in Paradise	1989	1980s	300.91955	100.004	0.672782	0.553092	E	Pop
+John Lennon	(Just Like) Starting Over	1980	1980s	254.64118	99.052	0.422415	0.689814	B	Rock
+Culture Club	Karma Chameleon	1983	1980s	242.14667	91.982	0.654989	0.674871	Bb	Electronic,Pop
+Diana Ross	Upside Down	1980	1980s	213.30621	110.065	0.885963	0.853097	C#	Funk / Soul
+The Human League	Don't You Want Me	1982	1980s	239.09832	117.928	0.615067	0.668896	A	Electronic
+Michael Jackson	Beat It	1983	1980s	296.70354	138.479	0.634212	0.662364	Eb	Pop
+Blondie	Call Me	1980	1980s	479.86893	142.823	0.527598	0.547818	D	Rock,Stage & Screen
+Rick Astley	Never Gonna Give You Up	1987	1980s	213.25288	113.314	0.977825	0.617886	Ab	Electronic,Pop
+George Michael	Faith	1987	1980s	213.33542	95.784	0.40588	0.820484	B	Rock
+Berlin	Take My Breath Away	1986	1980s	251.33279	96.295	0.685933	0.225704	F#	Electronic
+Tina Turner	What's Love Got to Do With It?	1984	1980s	328.42621	100.474	0.640741	0.622897	D	Rock,Funk / Soul
+Los Lobos	La Bamba	1987	1980s	203.38939	187.237	0.85772	0.180813	C	Rock,Latin
+David Bowie	Let's Dance	1983	1980s	456.01669	115.113	0.801132	0.627777	Bb	Rock,Pop
+Cyndi Lauper	Girls Just Wanna Have Fun	1984	1980s	217.66385	120.521	0.804371	0.650888	F#	Pop
+Men At Work	Down Under	1982	1980s	221.59156	106.67	0.63595	0.707094	D	Rock,Pop
+Culture Club	Do You Really Want to Hurt Me?	1982	1980s	247.65333	103.899	0.801927	0.576309	E	Pop
+U2	With Or Without You	1987	1980s	277.69333	110.873	0.508027	0.454321	C#	Rock
+Phil Collins	A Groovy Kind of Love	1988	1980s	210.4	143.663	0.216334	0.200899	D	Rock,Stage & Screen
+U2	I Still Haven't Found What I'm Looking For	1987	1980s	265.06667	101.505	0.644019	0.537812	Bb	Rock
+Steve Miller Band	Abracadabra	1982	1980s	307.96	127.507	0.566576	0.79853	A	Rock
+Dexys Midnight Runners	Come On Eileen	1982	1980s	287.30667	106.799	0.658467	0.450335	D	Rock
+Falco	Rock Me Amadeus	1986	1980s	200.09333	177.816	0.904781	0.580741	E	Electronic
+Fine Young Cannibals	She Drives Me Crazy	1989	1980s	215.34667	108.799	0.693747	0.79146	D	Electronic,Pop
+Bonnie Tyler	Total Eclipse of the Heart	1983	1980s	270.30667	131.165	0.655241	0.428947	Ab	Rock
+The Bangles	Eternal Flame	1989	1980s	238.33333	78.94	0.319073	0.518804	E	Pop
+Madonna	Papa Don't Preach	1986	1980s	345.28	121.54	0.906301	0.80689	F	Pop
+The Bangles	Walk Like an Egyptian	1986	1980s	203.86667	102.99	0.882293	0.717754	B	Rock,Pop
+UB40	Red Red Wine	1983	1980s	352.51401	175.584	0.649566	0.441289	C#	Rock
+Foreigner	I Want to Know What Love Is	1985	1980s	370.25333	83.697	0.84249	0.368371	F#	Rock
+Richard Marx	Right Here Waiting	1989	1980s	289.45333	76.034	0.256279	0.612696	C	Rock
+Roxette	The Look	1989	1980s	220.94322	95.038	0.819207	0.656729	D	Rock,Pop
+Soft Cell	Tainted Love	1981	1980s	156.70667	143.21	0.491524	0.527804	C	Electronic,Pop
+Guns n' Roses	Sweet Child O' Mine	1988	1980s	356.08	125.122	0.911092	0.451043	F#	Rock
+Queen	Another One Bites the Dust	1980	1980s	358.93333	115.991	0.983594	0.533729	E	Rock
+Bon Jovi	Livin' On a Prayer	1987	1980s	220.38667	112.014	0.481228	0.635257	Eb	Rock
+Nena	99 Red Balloons	1984	1980s	254.50667	193.597	0.526563	0.480872	E	Electronic,Rock
+Jive Bunny & The Mastermixers	Swing the Mood	1989	1980s	244.34667	185.745	0.806194	0.574629	Ab	Rock
+U2	Desire	1988	1980s	144.06531	107.887	0.72989	0.274024	Ab	Rock
+Madonna	Like a Virgin	1984	1980s	218.62667	119.747	0.655426	0.769848	Eb	Electronic
+Frankie Goes To Hollywood	Relax	1984	1980s	210.15964	128.026	0.952085	0.627116	A	Electronic
+Phil Collins	In the Air Tonight	1981	1980s	288.54354	94.526	0.081475	0.55286	C	Rock
+John Lennon	Woman	1981	1980s	226.22621	162.004	0.343043	0.674256	Eb	Rock
+Tears For Fears	Shout	1985	1980s	348.90667	98.074	0.921476	0.530364	D	Electronic
+Queen	Crazy Little Thing Called Love	1980	1980s	162.82667	77.064	0.714795	0.59821	G	Rock
+Van Halen	Jump	1984	1980s	241.59955	129.994	0.834722	0.572353	C	Rock
+Prince	Batdance	1989	1980s	246.80444	110.918	0.397905	0.652558	D	Electronic
+Musical Youth	Pass the Dutchie	1982	1980s	59.66621	75.23	0.78626	0.642711	C	Reggae
+Peter Gabriel	Sledgehammer	1986	1980s	306.70322	96.398	0.582804	0.668133	Ab	Rock
+Irene Cara	Fame	1980	1980s	320.59166	131.927	0.9333	0.638136	Eb	Electronic,Stage & Screen
+Lionel Richie	Hello	1984	1980s	268.14667	124.145	0.51841	0.5222	A	Funk / Soul,Pop
+Ray Parker Jr	Ghostbusters	1984	1980s	296.80281	115.577	0.704908	0.767706	E	Electronic,Pop,Stage & Screen
+Kenny Loggins	Footloose	1984	1980s	220.69333	174.19	0.94899	0.399881	A	Stage & Screen
+INXS	Need You Tonight	1988	1980s	182.8	108.676	0.639692	0.81002	Bb	Rock
+Kaoma	Lambada	1989	1980s	366.35351000000003	119.107	0.82234	0.792483	Bb	Latin
+Madonna	Who's That Girl?	1987	1980s	238.77333	103.833	0.857113	0.612055	A	Electronic,Pop
+Mike & The Mechanics	The Living Years	1989	1980s	319.84	97.814	0.491059	0.514546	Ab	Rock
+Tiffany	I Think We're Alone Now	1988	1980s	192.65333	131.977	0.888459	0.723144	G	Pop
+Kool & The Gang	Celebration	1981	1980s	696.43946	120.926	0.780698	0.474941	C#	Funk / Soul
+Bee Gees	Stayin' Alive	1978	1970s	283.14667	103.569	0.827857	0.702418	Bb	Pop
+The Beatles	Let it Be	1970	1970s	243.02667	140.616	0.39101	0.45026	C	Rock,Pop
+George Harrison	My Sweet Lord	1971	1970s	275.73333	130.744	0.886423	0.559403	C#	Rock
+Carl Douglas	Kung Fu Fighting	1974	1970s	192.21333	102.224	0.673045	0.579672	D	Funk / Soul
+John Lennon	Imagine	1971	1970s	265.21592	76.131	0.566675	0.356063	C	Rock,Pop
+Terry Jacks	Seasons in the Sun	1974	1970s	209.90667	97.363	0.503271	0.697392	F#	Rock,Pop
+The Rolling Stones	Angie	1973	1970s	206.33705	78.976	0.501338	0.444761	C	Rock
+Mungo Jerry	In the Summertime	1970	1970s	209.68	165.27	0.651629	0.574503	E	Rock
+Bee Gees	Night Fever	1978	1970s	209.4	109.188	0.795212	0.693079	C#	Funk / Soul
+George McCrae	Rock Your Baby	1974	1970s	386.14667	110.024	0.875006	0.680496	Bb	Funk / Soul
+Shocking Blue	Venus	1970	1970s	185.14286	130.052	0.770886	0.657602	B	Rock,Pop
+Boney M	Rivers of Babylon	1978	1970s	257.26667	115.026	0.721718	0.723189	C#	Funk / Soul
+Eagles	Hotel California	1977	1970s	243.53914	137.951	0.324631	0.649862	B	Rock
+Blondie	Heart of Glass	1979	1970s	416.06667	115.863	0.940951	0.478234	D	Electronic,Rock
+Chicago	If You Leave Me Now	1976	1970s	293.93288	99.433	0.535974	0.376102	B	Rock
+Gloria Gaynor	I Will Survive	1979	1970s	266.10667	127.982	0.987276	0.646839	A	Funk / Soul
+Don McLean	American Pie	1972	1970s	515.88304	138.484	0.516204	0.560827	G	Rock
+Simon & Garfunkel	Bridge Over Troubled Water	1970	1970s	293.42667	82.608	0.218573	0.30955	Eb	Pop,Folk, World, & Country
+Chic	Le Freak	1979	1970s	229.22667	118.402	0.755127	0.887522	G	Funk / Soul
+Billy Swan	I Can Help	1975	1970s	128.29333	109.792	0.320032	0.775715	C	Rock
+Bee Gees	How Deep is Your Love?	1977	1970s	243.61333	104.981	0.391817	0.630573	F	Pop
+Bee Gees	Tragedy	1979	1970s	302.06667	118.254	0.477259	0.67788	D	Funk / Soul
+Rod Stewart	Maggie May	1971	1970s	296.84	129.047	0.674422	0.677427	D	Rock
+Elton John	Crocodile Rock	1973	1970s	234.10667	149.946	0.612007	0.613954	E	Rock,Pop
+Donna Summer	Hot Stuff	1979	1970s	282.67955	120.529	0.898926	0.779891	C	Electronic
+Roberta Flack	Killing Me Softly With His Song	1973	1970s	282.48771	121.364	0.183843	0.464943	F	Funk / Soul
+Bachman-Turner Overdrive	You Ain't Seen Nothin' Yet	1974	1970s	224.82621	126.927	0.948883	0.493721	D	Rock
+Carly Simon	You're So Vain	1973	1970s	288.8098	105.439	0.476157	0.519627	Ab	Rock,Blues,Pop
+Hot Butter	Popcorn	1972	1970s	151.90667	133.583	0.793986	0.778508	B	Electronic
+Gerry Rafferty	Baker Street	1978	1970s	311.61288	114.12	0.476552	0.525936	G	Rock
+Patrick Hernandez	Born to Be Alive	1979	1970s	197.51955	131.665	0.778909	0.729077	D	Electronic
+Donna Summer	I Feel Love	1977	1970s	195.90667	125.74	0.879204	0.599068	G	Electronic,Funk / Soul
+Bonnie Tyler	It's a Heartache	1978	1970s	198.81333	116.976	0.866683	0.55174	C	Rock,Pop
+M	Pop Muzik	1979	1970s	116.93333	111.882	0.791982	0.749511	C#	Electronic,Rock
+The Rubettes	Sugar Baby Love	1974	1970s	247.70667	134.287	0.680493	0.498251	Bb	Rock,Pop
+Harry Nilsson	Without You	1972	1970s	198.29333	65.681	0.368952	0.414392	E	Rock,Pop
+10cc	I'm Not in Love	1975	1970s	231.06667	133.933	0.578842	0.288586	E	Pop
+Led Zeppelin	Whole Lotta Love	1970	1970s	334.55515	87.979	0.892831	0.401153	A	Rock
+The Knack	My Sharona	1979	1970s	313.13333	150.231	0.960576	0.431856	C	Rock
+Bee Gees	Too Much Heaven	1979	1970s	296.5867	83.551	0.4956	0.561868	F#	Rock,Pop
+Wings	Mull of Kintyre	1977	1970s	284.58667	92.153	0.377169	0.342756	D	Rock
+Anita Ward	Ring My Bell	1979	1970s	212.14667	125.735	0.792303	0.768593	F	Electronic
+Boney M	Daddy Cool	1976	1970s	205.89333	124.649	0.755802	0.759814	F	Funk / Soul
+Michael Jackson	Don't Stop 'Til You Get Enough	1979	1970s	251.4	119.304	0.769981	0.837228	B	Pop
+Steve Miller Band	The Joker	1974	1970s	217.8	165.451	0.339398	0.416845	Bb	Rock
+The Moody Blues	Nights in White Satin	1972	1970s	316.06667	148.504	0.520798	0.207062	E	Rock,Pop
+The Rolling Stones	Brown Sugar	1971	1970s	228.66667	128.607	0.931249	0.634048	C	Rock
+Boney M	Ma Baker	1977	1970s	188.21288	124.006	0.812215	0.883808	C	Electronic,Funk / Soul
+Tom Jones	She's a Lady	1971	1970s	177.72	119.193	0.891189	0.444509	B	Pop
+Frankie Valli	Grease	1978	1970s	202	109.305	0.46335	0.808027	B	Rock,Funk / Soul,Stage & Screen
+The Rolling Stones	Miss You	1978	1970s	214.89333	109.993	0.553129	0.855037	A	Rock
+George Baker Selection	Una Paloma Blanca	1975	1970s	93.01333	131.787	0.812472	0.709091	F	Rock,Funk / Soul,Pop,Stage & Screen
+The Kinks	Lola	1970	1970s	244.34893	149.04	0.507496	0.483328	C#	Rock,Pop
+Amii Stewart	Knock On Wood	1979	1970s	225.2	143.12	0.926511	0.638736	D	Electronic
+Gilbert O'Sullivan	Get Down	1973	1970s	162.64	123.32	0.966232	0.727245	C#	Rock
+Captain & Tennille	Love Will Keep Us Together	1975	1970s	204.92	129.926	0.575195	0.663883	E	Pop
+Neil Young	Heart of Gold	1972	1970s	172.19873	94.916	0.151121	0.638539	G	Rock
+Kate Bush	Wuthering Heights	1978	1970s	205.57333	123.789	0.429473	0.580186	C#	Rock,Pop
+Tony Orlando & Dawn	Knock Three Times	1971	1970s	176.86667	123.13	0.700836	0.783274	C#	Pop
+Creedence Clearwater Revival	Up Around the Bend	1970	1970s	212.65333	138.566	0.705034	0.276005	A	Rock
+Cliff Richard	We Don't Talk Anymore	1979	1970s	254.8	111.651	0.648499	0.701864	C	Rock,Pop
+Elton John	Goodbye Yellow Brick Road	1973	1970s	195.74667	121.342	0.483779	0.563423	F	Rock
+Roberta Flack	The First Time Ever I Saw Your Face	1972	1970s	260.66639	120.653	0.026383	0.310988	C	Funk / Soul
+Kiss	I Was Made For Lovin' You	1979	1970s	269.58667	128.653	0.903893	0.656173	A	Rock
+Daniel Boone	Beautiful Sunday	1972	1970s	181.42667	121.502	0.676353	0.663209	D	Rock,Pop
+Stevie Wonder	Superstition	1973	1970s	252.42667	100.489	0.729054	0.625494	Bb	Funk / Soul
+Barbra Streisand	The Way We Were	1974	1970s	231.16	84.483	0.216624	0.220301	A	Pop,Stage & Screen
+Pussycat	Mississippi	1976	1970s	274.52	123.348	0.695588	0.608758	Bb	Rock
+The Hollies	The Air That I Breathe	1974	1970s	251	83.47	0.386655	0.397008	C	Rock,Pop
+The Beatles	Hey Jude	1968	1960s	431.33288	147.142	0.547251	0.401926	Bb	Rock,Pop
+The Beatles	I Want to Hold Your Hand	1964	1960s	144.85333	130.919	0.697668	0.493924	G	Rock,Pop
+Procol Harum	A Whiter Shade of Pale	1967	1960s	237.69333	74.4	0.693947	0.172908	C	Rock
+Elvis Presley	Are You Lonesome Tonight?	1960	1960s	150.66667	103.191	0.867775	0.489498	Ab	Rock
+Elvis Presley	It's Now Or Never	1960	1960s	194.22331	126.148	0.621895	0.600321	E	Rock
+The Beatles	Help!	1965	1960s	140.66667	94.747	0.511267	0.533892	B	Rock
+The Beatles	She Loves You	1964	1960s	140.4	150.508	0.837045	0.358463	G	Rock
+Chubby Checker	Let's Twist Again	1961	1960s	142.84	162.402	0.747426	0.635351	Eb	Rock,Blues,Pop
+Pat Boone	Speedy Gonzales	1962	1960s	155.02621	144.748	0.600663	0.598004	A	Rock,Pop
+The Righteous Brothers	Unchained Melody	1965	1960s	213.98667	99.78	0.488222	0.418383	C	Rock,Pop
+The Beatles	Yesterday	1965	1960s	125.66621	95.018	0.190406	0.342667	F	Rock,Pop
+Frank Sinatra	Strangers in the Night	1966	1960s	154.07891	89.888	0.592347	0.249971	F	Jazz
+The Beatles	All You Need is Love	1967	1960s	227.34472	102.883	0.408339	0.399709	G	Rock
+Rocco Granata	Marina	1960	1960s	167.54667	101.632	0.521724	0.657485	A	Rock,Pop
+The Monkees	I'm a Believer	1967	1960s	162.45279	80.128	0.811147	0.529047	C	Rock,Pop
+Ben E King	Stand By Me	1961	1960s	174	119.798	0.317287	0.612685	A	Rock,Funk / Soul
+Chubby Checker	The Twist	1960	1960s	156.65633	156.961	0.73463	0.352308	E	Rock
+Ray Charles	I Can't Stop Loving You	1962	1960s	252.85333	78.57	0.380029	0.302711	F	Funk / Soul
+The Beatles	I Feel Fine	1964	1960s	139.15383	90.083	0.554023	0.528709	G	Rock
+Petula Clark	Downtown	1965	1960s	197.32317	112.45	0.433992	0.434322	Eb	Pop
+The Beatles	Get Back	1969	1960s	187.14354	125.597	0.5903	0.722574	D	Rock,Pop
+The Beatles	A Hard Day's Night	1964	1960s	146.80789	140.46	0.469069	0.444402	F	Rock,Pop
+The Tornados	Telstar	1962	1960s	217.26766	144.111	0.942846	0.156861	A	Pop
+Elvis Presley	(You're The) Devil in Disguise	1963	1960s	137.42667	121.223	0.686129	0.510622	F	Rock,Pop
+Nancy Sinatra	These Boots Are Made For Walking	1966	1960s	162.50776	165.844	0.589209	0.628324	A	Rock,Pop
+Trini Lopez	If I Had a Hammer	1963	1960s	178.86667	173.252	0.894999	0.412249	D	Rock,Latin
+The Beach Boys	Good Vibrations	1966	1960s	296.18667	130.891	0.504971	0.288974	Bb	Rock,Pop
+Elvis Presley	Return to Sender	1962	1960s	120	135.911	0.5469	0.826889	E	Rock
+The Beatles	Ticket to Ride	1965	1960s	193.12	123.46	0.411283	0.499852	E	Rock
+The Beatles	Penny Lane	1967	1960s	180.89288	112.99	0.495388	0.651044	A	Rock
+The Beatles	Yellow Submarine	1966	1960s	171.05574	109.088	0.487172	0.667571	C#	Rock
+The Beatles	Paperback Writer	1966	1960s	141.76608	79.162	0.537424	0.455989	G	Rock
+Mary Hopkin	Those Were the Days	1968	1960s	296.65333	177.477	0.257473	0.357508	F#	Pop
+Elvis Presley	Good Luck Charm	1962	1960s	25.05098	120.786	0.346975	0.777981	D	Pop
+Elvis Presley	Surrender	1961	1960s	110.63007	80.809	0.613495	0.372652	Eb	Rock,Pop
+The Everly Brothers	Cathy's Clown	1960	1960s	147.61333	123.219	0.740021	0.605329	G	Rock
+Sam The Sham & The Pharaohs	Wooly Bully	1965	1960s	140.74667	139.782	0.710205	0.791505	G	Rock
+The Rolling Stones	Paint it Black	1966	1960s	134.77333	80.706	0.948468	0.442538	C	Rock
+Chris Montez	Let's Dance	1962	1960s	30.06649	77.021	0.749606	0.693995	Bb	Latin,Pop
+Elvis Presley	Suspicious Minds	1969	1960s	304.26667	142.949	0.62596	0.365588	G	Rock
+The Byrds	Mr Tambourine Man	1965	1960s	148.90667	118.196	0.533184	0.568262	D	Rock,Pop
+The Drifters	Save the Last Dance For Me	1960	1960s	135.46667	163.456	0.631804	0.440874	D	Rock
+Simon & Garfunkel	The Sounds of Silence	1966	1960s	273.28	91.599	0.432696	0.291808	G	Rock,Pop
+Elvis Presley	In the Ghetto	1969	1960s	183.82322	95.713	0.28904	0.365872	C	Funk / Soul,Folk, World, & Country
+Ricky Nelson	Hello Mary Lou	1961	1960s	136	97.959	0.778898	0.492971	A	Rock,Folk, World, & Country
+Del Shannon	Runaway	1961	1960s	139.37333	154.02	0.742244	0.551693	Ab	Rock
+The Beatles	Can't Buy Me Love	1964	1960s	131.65714	84.768	0.414928	0.588993	C	Rock,Pop
+The Beatles	Come Together	1969	1960s	258.45655	164.942	0.293121	0.528642	A	Rock
+Elvis Presley	Wooden Heart	1961	1960s	61.92	81.711	0.151553	0.780824	Eb	Pop
+Sam Cooke	Wonderful World	1960	1960s	125.18812	128.265	0.370428	0.687564	B	Rock,Funk / Soul
+The Rolling Stones	Jumpin' Jack Flash	1968	1960s	220.3439	137.461	0.796849	0.583599	Eb	Rock
+Edwin Hawkins Singers	Oh Happy Day	1969	1960s	302.57288	120.09	0.486205	0.512959	Ab	Funk / Soul
+The Box Tops	The Letter	1967	1960s	112.87029	140.28	0.309662	0.672892	A	Rock
+The Mamas & The Papas	Monday Monday	1966	1960s	204.5341	198.256	0.759793	0.161882	B	Rock
+The Monkees	Daydream Believer	1967	1960s	164.54485	125.615	0.300407	0.487352	G	Rock
+Sandie Shaw	Puppet On a String	1967	1960s	141.98667	124.172	0.766036	0.732835	C	Pop
+Nini Rosso	Il Silenzio	1965	1960s	186.41333	96.027	0.341635	0.362428	Bb	Jazz,Pop
+The Righteous Brothers	You've Lost That Lovin' Feelin'	1964	1960s	220.89333	94.801	0.328912	0.343808	C#	Rock,Funk / Soul,Pop
+Tommy James & the Shondells	Crimson & Clover	1969	1960s	204.58621	81.738	0.297729	0.384777	B	Pop
+Elvis Presley	Can't Help Falling in Love	1962	1960s	183.40526	98.662	0.398229	0.3623	C#	Rock,Pop,Stage & Screen
+Tom Jones	Delilah	1968	1960s	164.64	162.419	0.790645	0.398702	F#	Pop
+Barry Ryan	Eloise	1968	1960s	344.89333	131.12	0.669802	0.413411	C	Rock
+The Doors	Light My Fire	1967	1960s	429.76	124.618	0.724877	0.41264	Eb	Rock
+The Beatles	Lady Madonna	1968	1960s	136.82621	109.589	0.771458	0.651029	G	Rock
+The Rolling Stones	Get Off of My Cloud	1965	1960s	173.77333	126.285	0.888588	0.567721	E	Rock
+The Ronettes	Be My Baby	1963	1960s	153.61288	131.323	0.717798	0.447702	E	Rock,Pop
+Little Eva	The Loco-Motion	1962	1960s	108.08889	85.935	0.653585	0.50331	Eb	Rock,Funk / Soul
+The Rolling Stones	The Last Time	1965	1960s	189.68	93.691	0.921433	0.276648	A	Rock
+Louis Armstrong	Hello Dolly	1964	1960s	152.50667	80.667	0.535157	0.522906	E	Jazz
+Bobby Vinton	Roses Are Red	1962	1960s	227.43946	103.089	0.373308	0.380986	F	Pop
+Elvis Presley	Stuck On You	1960	1960s	25.05098	131.371	0.461201	0.753396	G	Rock,Pop
+The Marcels	Blue Moon	1961	1960s	136.96	127.411	0.530474	0.428669	G	Rock,Pop
+Creedence Clearwater Revival	Proud Mary	1969	1960s	248.68	134.36	0.70445	0.269847	D	Rock
+The Beatles	Strawberry Fields Forever	1967	1960s	248.93288	97.535	0.49263	0.388861	Bb	Rock
+Elvis Presley	She's Not You	1962	1960s	123.94463	118.197	0.409775	0.563693	F	Rock
+The Supremes	Where Did Our Love Go	1964	1960s	160.66667	133.973	0.565162	0.874447	C	Funk / Soul
+Kingsmen	Louie Louie	1963	1960s	124.55764	124.941	0.476749	0.883955	Ab	Rock
+The Beatles	Michelle	1966	1960s	160.75859	116.985	0.165444	0.567701	F	Rock
+Bob Dylan	Like a Rolling Stone	1965	1960s	186.65288	106.406	0.711639	0.590333	C	Rock,Pop,Folk, World, & Country
+Bill Haley & his Comets	Rock Around the Clock	1955	1950s	138.50621	205.532	0.951032	0.470454	A	Rock
+Elvis Presley	Jailhouse Rock	1957	1950s	98.05333	96.557	0.496746	0.507564	D	Rock
+Jo Stafford	You Belong to Me	1952	1950s	92.86	141.189	0.287846	0.349402	D	Jazz,Pop
+Bobby Darin	Mack the Knife	1959	1950s	187.12376	164.648	0.301846	0.521011	Bb	Rock,Pop
+The Kingston Trio	Tom Dooley	1958	1950s	148.66667	133.975	0.883861	0.488431	B	Folk, World, & Country
+Al Martino	Here in My Heart	1952	1950s	192.45333	130.956	0.257196	0.229944	A	Pop
+Fats Domino	Blueberry Hill	1956	1950s	30.06649	130.52	0.434829	0.496679	F	Rock
+The Chordettes	Mister Sandman	1954	1950s	155.79429	208.712	0.357564	0.504189	Ab	Pop
+Nat King Cole	Mona Lisa	1950	1950s	30.06649	92.643	0.340254	0.234692	Bb	Jazz,Pop
+Nat King Cole	Too Young	1951	1950s	268.94667	137.685	0.251615	0.258984	G	Jazz
+Vera Lynn	Auf Wiederseh'n Sweetheart	1952	1950s	157.26667	109.638	0.27706	0.396736	Ab	Jazz,Pop
+Tennessee Ernie Ford	Sixteen Tons	1955	1950s	156.21288	143.919	0.208613	0.599397	E	Rock,Funk / Soul,Pop
+Jerry Lee Lewis	Great Balls of Fire	1957	1950s	111.17506	91.874	0.842141	0.320913	C	Rock
+Nat King Cole	Unforgettable	1951	1950s	30.06649	84.473	0.105726	0.3479	E	Pop
+Patti Page	Tennessee Waltz	1950	1950s	181.59583	85.797	0.138617	0.494084	F	Pop
+Elvis Presley	Heartbreak Hotel	1956	1950s	30.06649	94.269	0.359346	0.688879	E	Rock
+Doris Day	Secret Love	1954	1950s	109.18998	102.798	0.133717	0.265549	B	Pop,Stage & Screen
+Domenico Modugno	Volare	1958	1950s	152.88	132.093	0.535263	0.344768	F	Pop
+Kitty Kallen	Little Things Mean a Lot	1954	1950s	89.14998	82.566	0.090955	0.453632	Ab	Pop,Folk, World, & Country
+Elvis Presley	Hound Dog	1956	1950s	143.61333	92.146	0.761834	0.265973	G	Rock
+Buddy Holly	That'll Be the Day	1957	1950s	30.06649	65.889	0.69937	0.485172	E	Rock
+Paul Anka	Diana	1957	1950s	172.51156	140.031	0.888042	0.547242	F	Rock,Pop
+Elvis Presley	All Shook Up	1957	1950s	118.33469	151.923	0.804089	0.584246	Bb	Rock
+Elvis Presley	Don't Be Cruel	1956	1950s	159.45247	84.119	0.727675	0.457944	D	Rock
+Johnnie Ray	Cry	1951	1950s	184.23873	70.189	0.177254	0.315211	C	Rock,Funk / Soul
+The Platters	Smoke Gets in Your Eyes	1959	1950s	156.07955	118.818	0.393083	0.303003	Eb	Pop
+Tony Bennett	Stranger in Paradise	1954	1950s	186.27837	83.895	0.227641	0.219965	F#	Pop
+Pat Boone	Love Letters in the Sand	1957	1950s	30.06649	89.218	0.193647	0.510647	Bb	Pop,Stage & Screen
+Les Paul & Mary Ford	How High the Moon	1951	1950s	63	117.983	0.561019	0.795677	G	Jazz,Pop
+Don Cornell	Hold My Hand	1954	1950s	166.73333	83.295	0.190063	0.397228	Eb	Pop
+The Platters	The Great Pretender	1956	1950s	198.16	181.551	0.430175	0.266209	A	Pop
+Phil Harris	The Thing	1950	1950s	141.36	126.618	0.463511	0.879959	D	Jazz
+Dean Martin	Memories Are Made of This	1956	1950s	143.00222	64.486	0.52988	0.659713	E	Jazz,Pop,Folk, World, & Country
+Rosemary Clooney	Hey There	1954	1950s	89.8	88.036	0.080154	0.497405	G	Jazz,Pop
+The Diamonds	Little Darlin'	1957	1950s	30.06649	76.345	0.51633	0.616263	F#	Rock,Pop
+Jimmy Boyd	I Saw Mommy Kissing Santa Claus	1952	1950s	152.21655	115.413	0.217793	0.474642	Bb	Children's
+Patti Page	How Much is That Doggy in the Window?	1953	1950s	158.32	122.96	0.185748	0.600604	D	Pop
+Dean Martin	That's Amore	1953	1950s	185.46327	104.988	0.178892	0.449755	Bb	Pop
+Frankie Avalon	Venus	1959	1950s	158.66667	124.111	0.532186	0.665347	Bb	Pop
+The Kalin Twins	When	1958	1950s	25.05098	93.379	0.385875	0.616459	C#	Rock
+Les Paul & Mary Ford	Mockin' Bird Hill	1951	1950s	141.06621	164.317	0.412243	0.54471	C#	Jazz,Pop,Folk, World, & Country
+Paul Anka	Lonely Boy	1959	1950s	25.05098	105.402	0.572209	0.692129	C	Pop
+Perez Prado	Patricia	1958	1950s	139.62667	139.961	0.639233	0.713425	C#	Jazz
+Percy Faith	Delicado	1952	1950s	221.28154	94.018	0.507212	0.373453	G	Jazz
+Chuck Berry	Johnny B Goode	1958	1950s	160.93288	81.961	0.665975	0.586253	D	Rock
+Jerry Lee Lewis	Whole Lotta Shakin' Goin' On	1957	1950s	265.02667	172.579	0.942485	0.137728	C	Rock
+The Everly Brothers	Bird Dog	1958	1950s	131.12499	144.303	0.598465	0.534629	B	Rock
+Guy Mitchell	Singing The Blues	1956	1950s	147.32866	141.007	0.322309	0.601258	E	Pop
+Eddie Fisher	I Need You Now	1954	1950s	153.2	117.203	0.236527	0.482235	C	Pop
+Perry Como	Wanted	1954	1950s	92.46998	72.82	0.187371	0.450795	C#	Pop
+Frankie Laine	I Believe	1953	1950s	63.92998	98.227	0.147758	0.501154	C#	Pop
+Bobby Darin	Dream Lover	1959	1950s	71.68	135.104	0.491009	0.575136	C#	Rock
+Kay Starr	Wheel of Fortune	1952	1950s	180.93333	71.696	0.137549	0.530376	Ab	Jazz,Pop
+Cliff Richard	Living Doll	1959	1950s	25.05098	129.804	0.490739	0.68566	E	Pop
+Rosemary Clooney	Half As Much	1952	1950s	168.58667	106.376	0.270254	0.266657	Bb	Pop
+Rosemary Clooney	Mambo Italiano	1954	1950s	132.10077	74.456	0.493322	0.667107	A	Pop
+Eddie Fisher	Oh My Papa (O Mein Papa)	1954	1950s	188.33098	95.852	0.33663	0.245573	Bb	Pop
+Al Hibbler	Unchained Melody	1955	1950s	86.90998	116.767	0.268269	0.317459	Bb	Pop
+Conway Twitty	It's Only Make Believe	1958	1950s	147.2	114.983	0.368263	0.573058	Bb	Rock
+Billy Eckstine	My Foolish Heart	1950	1950s	183.50667	86.302	0.220278	0.273071	A	Jazz,Stage & Screen
+Rosemary Clooney	This Ole House	1954	1950s	70.82998	104.452	0.610154	0.769732	C	Jazz,Pop
+Neil Sedaka	Oh Carol	1959	1950s	136.37079	132.128	0.552581	0.566626	Ab	Rock,Pop
+Tony Bennett	Because of You	1951	1950s	181.56	85.578	0.262564	0.216122	F#	Pop
+Mario Lanza	Be My Love	1951	1950s	210.44	87.245	0.429812	0.169128	C#	Pop,Stage & Screen
+The Platters	My Prayer	1956	1950s	30.06649	72.255	0.253264	0.270135	D	Rock,Funk / Soul,Pop
+Nat King Cole	Pretend	1953	1950s	163.35937	79.243	0.167287	0.314595	Bb	Jazz
+Elvis Presley	Love Me Tender	1956	1950s	211.92	75.872	0.519089	0.20239	Bb	Pop,Stage & Screen
+Debbie Reynolds	Tammy	1957	1950s	189.6127	78.594	0.169847	0.215481	Ab	Pop,Stage & Screen
+Tony Bennett	Rags to Riches	1953	1950s	186.46667	142.851	0.476719	0.341911	C	Jazz,Pop
+The Everly Brothers	Bye Bye Love	1957	1950s	159.99955	82.752	0.667489	0.491873	A	Rock
+Tommy Edwards	It's All in the Game	1958	1950s	78.5	70.42	0.271256	0.50063	Eb	Pop
+Carl Perkins	Blue Suede Shoes	1956	1950s	135.97333	172.543	0.482013	0.411848	B	Rock
+Little Richard	Long Tall Sally	1956	1950s	127.70975	184.183	0.576516	0.427288	F	Rock
