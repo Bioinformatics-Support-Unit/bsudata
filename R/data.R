@@ -105,4 +105,13 @@
 #' @docType data
 #' @format A matrix with 20 rows and 22 columns
 "top20_matrix"
+#' Data frame of data from the Durham meteorological station 2020-2026 
+#' Downloaded from National Data Library under UK Open Governmant Licence (OGL) 
+#' See: https://www.data.gov.uk/dataset/17ba3bbe-0e98-4a8c-9937-bd1d50fdc3c5/historic-monthly-meteorological-station-data 
+#'
+#' Data frame with temperatures, air frost days and rainfall and  by month and year
+#'
+#' @docType data
+#' @format A data frame with 72 rows and 6 columns
+"durham_met_data"
 
